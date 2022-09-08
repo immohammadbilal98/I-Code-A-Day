@@ -1,4 +1,4 @@
-👓 This is the reposiory for Everthing JavaScript Code. 👓
+👓 This is the reposiory for JavaScript Language. 👓
 
 * ❕✔ Questions solving from Various Coding websites viz., HackerRank, CodeChef and other websites.
 * ❕✔ This repository contains Questions from various offline and onsite competitions.
