@@ -1,8 +1,4 @@
-# I Code a Day 💻✏️📚
-
-🔴 📁 📚 ✏️ 🚀 ✨ 💻 🐍 🔐 🖥 🖨 ⌨ 🖱 💾 💿 📙 💡 🖊 📂 🔴
-
-👓 This is the reposiory for PRACTICE CODE. 👓
+👓 This is the reposiory for Everthing JavaScript Code. 👓
 
 * ❕✔ Questions solving from Various Coding websites viz., HackerRank, CodeChef and other websites.
 * ❕✔ This repository contains Questions from various offline and onsite competitions.
